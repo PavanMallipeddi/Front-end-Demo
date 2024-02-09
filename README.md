@@ -1,3 +1,3 @@
 # Front-end-Demo
-This is first Git repository 
-Authored by Pavan M
+This is the first Git repository 
+Authored - Pavan M
